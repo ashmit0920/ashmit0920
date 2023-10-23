@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmit0920&label=Profile%20views&color=0e75b6&style=flat" alt="ashmit0920" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashmit0920" alt="ashmit0920" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashmit0920&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ashmit0920" /></a> </p>
 
 - 🔭 I’m currently working on [DBZ Gaming Website](https://github.com/ashmit0920/dbz-gaming-new)
 
