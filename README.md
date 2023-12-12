@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashmitthawait2@gmail.com**
 
-- ⚡ Fun fact **I am a coffee addict.**
+- ⚡ Fun fact **I am a chai addict.**
 
 ## 🌐 Connect with me:
 <p align="left">
