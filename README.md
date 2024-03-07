@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a [Billing system with whatsapp integration](https://github.com/ashmit0920/whatsapp-billing-system)
 
-- 🌱 I’m currently learning **NodeJS, React, Django**
+- 🌱 I’m currently learning **ExpressJS, React, Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashmit0920](https://github.com/ashmit0920)
 
