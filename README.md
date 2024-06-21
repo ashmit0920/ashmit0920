@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on a [ChitChat - Private chatrooms](https://github.com/ashmit0920/chitchat)
 
-- 🌱 I’m currently learning **ExpressJS, React, Flask**
+- 🌱 I’m currently learning **ExpressJS, Go, Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashmit0920](https://github.com/ashmit0920)
 
-- 💬 Ask me about **Python, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, HTML, CSS, JavaScript, C/C++**
 
 - 📫 How to reach me **ashmitthawait2@gmail.com**
 
