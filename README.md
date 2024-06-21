@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashmit0920](https://github.com/ashmit0920)
 
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, C/C++**
+- 💬 Ask me about **Gaming and Loud Cars**
 
 - 📫 How to reach me **ashmitthawait2@gmail.com**
 
