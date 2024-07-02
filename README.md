@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashmit0920&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ashmit0920" /></a> </p>
 
-- 🔭 I’m currently working on a [ChitChat - Private chatrooms](https://github.com/ashmit0920/chitchat)
+- 🔭 I’m currently working on a [Lucid - An AI Powered Research Assistant](https://github.com/ashmit0920/Lucid)
 
 - 🌱 I’m currently learning **ExpressJS, Go, Flask**
 
