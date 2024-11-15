@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashmit0920&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ashmit0920" /></a> </p>
 
-- 🔭 I’m currently working on a [Lucid - An AI Powered Research Assistant](https://github.com/ashmit0920/Lucid)
+- 🔭 I’m currently working on a [Mindsy.ai - An AI Powered Information Retrieval Tool](https://github.com/ashmit0920/mindsy.ai)
 
-- 🌱 I’m currently learning **ExpressJS, Go, Flask**
+- 🌱 I’m currently learning **ReactJS, Go, FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashmit0920](https://github.com/ashmit0920)
 
