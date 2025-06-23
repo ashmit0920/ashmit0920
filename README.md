@@ -20,10 +20,9 @@
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://codepen.io/ashmit0920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashmit0920" height="30" width="40" /></a>
-<a href="https://twitter.com/ashmittheboss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashmittheboss" height="30" width="40" /></a>
+<a href="https://twitter.com/ashh_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashmittheboss" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashmitthawait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashmitthawait" height="30" width="40" /></a>
 <a href="https://instagram.com/ash.mit___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ash.mit___" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashmitthawait8537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashmitthawait8537" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashispro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashispro" height="30" width="40" /></a>
 <a href="https://discord.gg/fH5ddES5qG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fH5ddES5qG" height="30" width="40" /></a>
 </p>
