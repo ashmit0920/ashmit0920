@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashmit0920&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ashmit0920" /></a> </p>
 
-- 🔭 I’m currently working on [DeskBuddy - An AI Powered Productivity Companion](https://github.com/ashmit0920/desktopbuddy)
+- 🔭 I’m currently working on [Relish - An AI Sous Chef](https://github.com/ashmit0920/getrelish.app)
 
 - 🌱 I’m currently learning **Next.js, Apache Kafka, FastAPI**
 
